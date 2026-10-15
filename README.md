@@ -4,6 +4,8 @@ An interactive SVG map of Night City by HillNSage.
 
 Drag to pan, scroll to zoom, and use the toggles to show or hide logos and street names. Hover over a logo to see its name. The map renders vector paths directly at every zoom level.
 
+For mobile: pinch to zoom and click on a logo to see its name. 
+
 ## Open locally
 
 Open index.html in any modern browser. No installation, build step or external dependencies are required.
